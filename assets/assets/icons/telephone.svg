@@ -1,0 +1,16 @@
+<svg id="Icons_Contact_ic-contact-phone-2" data-name="Icons / Contact / ic-contact-phone-2"
+    xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <rect id="Rectangle_191" width="24" height="24" fill="none" />
+    <g id="ic-contact-phone-2" transform="translate(0.015 0.009)">
+        <path id="Path_84"
+            d="M17.22,20.16H7a2,2,0,0,1-1.87-2.71l1.93-5.14A2,2,0,0,1,8.92,11h6.37a2,2,0,0,1,1.88,1.3l1.92,5.14a2,2,0,0,1-1.87,2.72Z"
+            fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"
+            stroke-width="1.5" />
+        <circle id="Ellipse_25" cx="2" cy="2" r="2" transform="translate(10.11 13.59)" fill="none"
+            stroke="#000" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1.5" />
+        <path id="Path_85"
+            d="M2.08,5.73V8.11a2,2,0,0,0,2,2H5a2,2,0,0,0,2-2V6.84H7a25.64,25.64,0,0,1,10,0h0V8.11a2,2,0,0,0,2,2h.89a2,2,0,0,0,2-2V5.73a1,1,0,0,0-.81-1h0a46.18,46.18,0,0,0-18.22,0h0A1,1,0,0,0,2.08,5.73Z"
+            fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round"
+            stroke-width="1.5" />
+    </g>
+</svg>
